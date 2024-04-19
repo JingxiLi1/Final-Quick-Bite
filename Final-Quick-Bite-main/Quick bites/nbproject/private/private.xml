@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/BuyDishesManage.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/common/Constant.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/dao/UserDao.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/DishesManage.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/AdminOrderManage.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/MerchantManage.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/util/VerifyUtils.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/dao/SysUserDao.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/dao/OrderDetailDao.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/dao/ShopCarModelDao.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/MerchantAdd.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/UserOrderManage.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/DishesAdd.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/MerchantOrderManage.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/ShopCarManage.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/OrderDetailsManage.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/enums/OrderStatus.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/UserInfo.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/dao/DishesDao.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/TakeUserOrderManage.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/util/DBTools.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/enums/PayChannel.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/MainFrame.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/Login.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/dao/TakeOutUserDao.java</file>
+            <file>file:/C:/Users/51102/Desktop/Final-Quick-Bite-main/Quick%20bites/src/com/assignment/frame/UserHistoryOrderManage.java</file>
+        </group>
+    </open-files>
+</project-private>
